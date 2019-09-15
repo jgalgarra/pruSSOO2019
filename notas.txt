@@ -1,0 +1,4 @@
+Descargar Thonny de thonny.org
+
+git remote add origin https://github.com/jgalgarra/proSSOO2019.git
+git remote -v
